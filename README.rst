@@ -1,1 +1,2 @@
-Experimental fork of [galaxyproject/pulsar](https://github.com/galaxyproject/pulsar)
+Experimental fork of `galaxyproject/pulsar
+<https://github.com/galaxyproject/pulsar>`_
