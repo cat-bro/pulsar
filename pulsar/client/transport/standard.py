@@ -30,6 +30,7 @@ class Urllib2Transport(object):
         return urlopen(request, data, self.timeout)
 
     def execute(self, url, method=None, data=None, input_path=None, output_path=None):
+        print('----\n', 'url: ', url, '\n')
         request = self.__request(url, data, method)
         input = None
         try:
