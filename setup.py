@@ -60,7 +60,7 @@ name = "pulsar-app" if not PULSAR_GALAXY_LIB else "pulsar-galaxy-lib"
 setup(
     name=name,
     version=version,
-    description='Distributed job execution application built for Galaxy (http://galaxyproject.org/).',
+    description='Experimental fork of galaxyproject/pulsar (not to be mistaken for the real thing).',
     long_description=readme + '\n\n' + history,
     author='Galaxy Project',
     author_email='jmchilton@gmail.com',
